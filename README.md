@@ -50,11 +50,13 @@ Este e-book foi uma verdadeira aventura no mundo do Git, criado com a inteligên
 - **LibreOffice**: Pela diagramação e formatação do e-book.
 - **Você, Leitor**: Por embarcar nessa jornada conosco!
 
+ 
+### 🧑🏻‍💻 Programadora Envolvida 
+Este projeto foi diagramado e organizado por Renata Coelho, uma estudante de Inteligência Artificial, como parte do desafio de projeto do Bootcamp Fundamentos de IA para Devs do Santander Open Academy.
+
+
 Prepare-se, aventureiro! É hora de dominar o Git com o estilo inconfundível do Mario Bros!
 
-
-###👩‍💻 Programadora Envolvida
-Este projeto foi diagramado e organizado por Renata Coelho, uma estudante de Inteligência Artificial, como parte do desafio de projeto do Bootcamp Fundamentos de IA para Devs do Santander Open Academy.
 
 ---
 
